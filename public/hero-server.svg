@@ -1,0 +1,48 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#0a0a0a"/>
+  <!-- Server blade base -->
+  <rect x="50" y="50" width="300" height="200" fill="#1a1a1a" stroke="#333" stroke-width="2"/>
+  <!-- Circuit board -->
+  <rect x="70" y="70" width="260" height="160" fill="#0f2f1f"/>
+  <!-- Large black components (heatsinks/ICs) -->
+  <rect x="80" y="80" width="40" height="30" fill="#000"/>
+  <rect x="130" y="80" width="40" height="30" fill="#000"/>
+  <rect x="180" y="80" width="40" height="30" fill="#000"/>
+  <rect x="230" y="80" width="40" height="30" fill="#000"/>
+  <rect x="280" y="80" width="40" height="30" fill="#000"/>
+  <rect x="80" y="120" width="40" height="30" fill="#000"/>
+  <rect x="130" y="120" width="40" height="30" fill="#000"/>
+  <rect x="180" y="120" width="40" height="30" fill="#000"/>
+  <rect x="230" y="120" width="40" height="30" fill="#000"/>
+  <rect x="280" y="120" width="40" height="30" fill="#000"/>
+  <rect x="80" y="160" width="40" height="30" fill="#000"/>
+  <rect x="130" y="160" width="40" height="30" fill="#000"/>
+  <rect x="180" y="160" width="40" height="30" fill="#000"/>
+  <rect x="230" y="160" width="40" height="30" fill="#000"/>
+  <rect x="280" y="160" width="40" height="30" fill="#000"/>
+  <!-- Front panel with ports -->
+  <rect x="70" y="200" width="260" height="20" fill="#333"/>
+  <!-- SFP ports -->
+  <rect x="80" y="205" width="15" height="10" fill="#666"/>
+  <rect x="100" y="205" width="15" height="10" fill="#666"/>
+  <rect x="120" y="205" width="15" height="10" fill="#666"/>
+  <rect x="140" y="205" width="15" height="10" fill="#666"/>
+  <rect x="160" y="205" width="15" height="10" fill="#666"/>
+  <rect x="180" y="205" width="15" height="10" fill="#666"/>
+  <rect x="200" y="205" width="15" height="10" fill="#666"/>
+  <rect x="220" y="205" width="15" height="10" fill="#666"/>
+  <rect x="240" y="205" width="15" height="10" fill="#666"/>
+  <rect x="260" y="205" width="15" height="10" fill="#666"/>
+  <!-- LED indicators -->
+  <circle cx="87" cy="200" r="2" fill="#00ff00"/>
+  <circle cx="107" cy="200" r="2" fill="#00ff00"/>
+  <circle cx="127" cy="200" r="2" fill="#00ff00"/>
+  <circle cx="147" cy="200" r="2" fill="#00ff00"/>
+  <circle cx="167" cy="200" r="2" fill="#00ff00"/>
+  <circle cx="187" cy="200" r="2" fill="#00ff00"/>
+  <circle cx="207" cy="200" r="2" fill="#00ff00"/>
+  <circle cx="227" cy="200" r="2" fill="#00ff00"/>
+  <circle cx="247" cy="200" r="2" fill="#00ff00"/>
+  <circle cx="267" cy="200" r="2" fill="#00ff00"/>
+  <text x="200" y="280" text-anchor="middle" fill="#666" font-family="Arial" font-size="12">Server</text>
+</svg> 
